@@ -39,7 +39,6 @@ export default function NewIncident() {
         }
     }
 
-
     return (
         <div className="new-incident">
             <div className="content">
