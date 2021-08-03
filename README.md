@@ -2,11 +2,11 @@
 Projeto feito na semana omnistack, organizado pela Rocketseat
 
 <p align="center">
-  <img alt="BeTheHero" src="GitRead/logo.svg" width="160px">
+  <img alt="BeTheHero" src="Git/logo.svg" width="160px">
 </p>
 
 <h1 align="center">
-    <img alt="BeTheHero" title="Be The Hero" src="GitRead/img.png" />
+    <img alt="BeTheHero" title="Be The Hero" src="Git/Img_2.png" />
 </h1>
 
 ## Sobre 📖
@@ -33,11 +33,5 @@ $ yarn install
 # Iniciar o projeto.
 $ yarn start
 ```
-
-# Iniciar o projeto.
-$ yarn start
-```
-
----
 
 <p align="center">Developed by 🚀 Rocketseat. Reproduced by: <a href="https://github.com/EduardoBrugnago/">Eduardo Brugnago.</p>
