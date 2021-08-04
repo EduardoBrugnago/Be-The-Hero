@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido usando as seguintes tecnologia:
 ```bash
 $ git clone https://github.com/EduardoBrugnago/Be-The-Hero
 ```
-Para concluir em cada pasta (Backend, Frontend e Mobiel):
+Para concluir em cada pasta (Backend, Frontend e Mobile):
 ```bash
 # Instalar as dependencias.
 $ yarn install
